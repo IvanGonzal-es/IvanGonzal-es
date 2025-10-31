@@ -17,4 +17,8 @@ Building server-side applications using Flask and Express.js.
 🌟 Completed projects using Java, MySQL, and PHP.
 🔭 Currently working on innovative web applications and improving backend design.
 
+🎉 Fun Fact
+I love working on web development projects and enjoy coding while listening to lo-fi music.
+
+
 Thanks for stopping by!
