@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Ivan Gonzales! 👋
 
-<!--
-**IvanGonzal-es/IvanGonzal-es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate BSIT student at Xavier University – Ateneo de Cagayan, driven by curiosity for technology and a dedication to learning. My journey involves exploring the world of computer science, building practical projects, and continuously improving my skills to grow as an IT professional.
 
-Here are some ideas to get you started:
+🚀 About Me
+🎓 I'm currently pursuing my Bachelor’s Degree in Information Technology at Xavier University – Ateneo de Cagayan.
+🌱 I’m currently learning Full Stack Web Development and API creation.
+📫 How to reach me: 20230028249@my.xu.edu.ph
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack
+🌱 Currently Exploring
+🚀 Learning Full Stack Web Development
+Exploring front-end development with React.
+Building server-side applications using Flask and Express.js.
+
+🏆 Achievements
+🌟 Completed projects using Java, MySQL, and PHP.
+🔭 Currently working on innovative web applications and improving backend design.
+
+Thanks for stopping by!
